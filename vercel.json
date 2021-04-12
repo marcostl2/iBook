@@ -6,5 +6,8 @@
       "use": "@nuxtjs/vercel-builder",
       "config": {}
     }
-  ]
+  ],
+  "scripts": {
+    "build": "yarn build"
+  }
 }
