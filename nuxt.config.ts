@@ -1,10 +1,5 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
-  ssr: true,
-
-  target: "server",
-  mode: "universal",
-
   head: {
     title: "ibook",
     htmlAttrs: {
